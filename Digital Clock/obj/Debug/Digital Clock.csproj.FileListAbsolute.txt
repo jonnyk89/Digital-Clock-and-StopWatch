@@ -1,0 +1,11 @@
+C:\Users\nn\source\repos\Digital Clock\Digital Clock\bin\Debug\Digital Clock.exe.config
+C:\Users\nn\source\repos\Digital Clock\Digital Clock\bin\Debug\Digital Clock.exe
+C:\Users\nn\source\repos\Digital Clock\Digital Clock\bin\Debug\Digital Clock.pdb
+C:\Users\nn\source\repos\Digital Clock\Digital Clock\obj\Debug\Digital Clock.csprojAssemblyReference.cache
+C:\Users\nn\source\repos\Digital Clock\Digital Clock\obj\Debug\Digital_Clock.Properties.Resources.resources
+C:\Users\nn\source\repos\Digital Clock\Digital Clock\obj\Debug\Digital Clock.csproj.GenerateResource.cache
+C:\Users\nn\source\repos\Digital Clock\Digital Clock\obj\Debug\Digital Clock.csproj.CoreCompileInputs.cache
+C:\Users\nn\source\repos\Digital Clock\Digital Clock\obj\Debug\Digital Clock.exe
+C:\Users\nn\source\repos\Digital Clock\Digital Clock\obj\Debug\Digital Clock.pdb
+C:\Users\nn\source\repos\Digital Clock\Digital Clock\obj\Debug\Digital_Clock.frmDigitalClock.resources
+C:\Users\nn\source\repos\Digital Clock\Digital Clock\obj\Debug\Digital_Clock.frmStopWatch.resources
